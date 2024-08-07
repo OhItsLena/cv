@@ -1,4 +1,4 @@
-# Lena Hammerer
+# L E N A  H A M M E R E R
 
 Software Engineer & Data Scientist based in Munich 🇩🇪🥨
 
