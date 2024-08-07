@@ -1,6 +1,6 @@
 # LENA HAMMERER
 
-Software Engineer & Data Scientist based in Munich 🇩🇪🥨
+Software Engineer & Data Scientist based in Munich 🇩🇪
 
 [Email](mailto:contact@lenahammerer.com) / [LinkedIn](https://www.linkedin.com/in/lena-hammerer/) / [GitHub](https://github.com/OhItsLena/) / [Twitter](https://twitter.com/lena_hammerer)
 
