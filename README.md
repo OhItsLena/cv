@@ -40,7 +40,7 @@ Database maintenance and filing for fiscal year-end closing
 APRIL 2024 - JULY 2024 <br>
 Introducing students to software development practices and agile collaboration within software projects using Java
 
-**Duale Hochschule Baden-Württemberg, Studenten Assistant** *- Ravensburg, Germany* <br>
+**Duale Hochschule Baden-Württemberg, Student Assistant** *- Ravensburg, Germany* <br>
 JANUARY 2023 - MARCH 2023 <br>
 Instructing students during programming exercises with Java
 
