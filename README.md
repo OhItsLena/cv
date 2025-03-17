@@ -1,6 +1,6 @@
 # LENA HAMMERER
 
-Software Engineer & Data Scientist based in Munich 🇩🇪
+Software Engineer & Data Scientist based in Munich 🇩🇪 🥨 
 
 [Email](mailto:contact@lenahammerer.com) / [LinkedIn](https://www.linkedin.com/in/lena-hammerer/) / [GitHub](https://github.com/OhItsLena/) / [Twitter](https://twitter.com/lena_hammerer)
 
@@ -10,6 +10,13 @@ Software Engineer & Data Scientist based in Munich 🇩🇪
 
 
 ## 📌 Work Experience
+**nebumind GmbH, Working Student Data Analytics and ML** *- Munich, Germany* <br>
+OCTOBER 2024 - CURRENT
+- Analyzing large time-series data sets with spatial context for anomaly detection
+- Using LLMs to translate natural language into custom SPQL query language
+- Developing machine learning models for predictive maintenance
+- Visualize data insights from manufacturing processes for business stakeholders
+
 **SAP SE, Vocational Training Program Business Information Systems** *- Markdorf, Germany* <br>
 SEPTEMBER 2020 - SEPTEMBER 2023
 - Presales support, including customer-facing presentations
@@ -75,7 +82,7 @@ SEPTEMBER 2016 - JUNE 2020
 | `Programming`                      | Java, C#, Python, JavaScript, TypeScript, R                                                |
 | `Web Development`                  | frontend (HTML, CSS, Vue.js, React, OpenUI5) <br> backend (Node.js, Spring, FastAPI, Flask)|
 | `Data Science` <br> `ML`           | deep learning, natural language processing, data analysis, visualization, process mining (pandas, NumPy, TensorFlow, PyTorch, LangChain, matplotlib, seaborn, ggplot) |
-| `Database Management`              | SQL, PostgreSQL, SAP HANA, mongoDB                                                         |
+| `Database Management`              | SQL, PostgreSQL, ChromaDB, SAP HANA, mongoDB                                                         |
 | `Virtualization` <br> `Containers` | Docker, Kubernetes, VMware vSphere                                                         |
 | `Collaboration`                    | Git, Scrum, Jira                                                                           |
 | `Productivity`                     | Microsoft Office Suite                                                                     |
