@@ -55,8 +55,9 @@ Instructing students during programming exercises with Java
 ## 🎓 Education
 **Ludwig-Maximilians-Universität München, Computer Science** *- M.Sc.* <br>
 OCTOBER 2023 - PRESENT
-- Focus on artificial intelligence and process mining
-- Expected graduation in 2025
+- Focus on AI, process mining and human computer interaction
+- Thesis topic “Vibe Coding: A Scientific Perspective”
+- Expected graduation in September 2025
 
 **Duale Hochschule Baden-Württemberg Campus Ravensburg, Business Information System – Data Science** *- B.Sc.* <br>
 OCTOBER 2020 - SEPTEMBER 2023
@@ -83,7 +84,7 @@ SEPTEMBER 2016 - JUNE 2020
 | `Web Development`                  | frontend (HTML, CSS, Vue.js, React, OpenUI5) <br> backend (Node.js, Spring, FastAPI, Flask)|
 | `Data Science` <br> `ML`           | deep learning, natural language processing, data analysis, visualization, process mining (pandas, NumPy, TensorFlow, PyTorch, LangChain, matplotlib, seaborn, ggplot) |
 | `Database Management`              | SQL, PostgreSQL, ChromaDB, SAP HANA, mongoDB                                                         |
-| `Virtualization` <br> `Containers` | Docker, Kubernetes, VMware vSphere                                                         |
+| `Virtualization` <br> `Containers` | Azure, Docker, Kubernetes, VMware vSphere                                                         |
 | `Collaboration`                    | Git, Scrum, Jira                                                                           |
 | `Productivity`                     | Microsoft Office Suite                                                                     |
 | `Creativity`                       | Adobe Creative Cloud (fundamentals)                                                        |
